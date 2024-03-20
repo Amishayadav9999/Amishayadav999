@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amisha Yadav</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right"alt="coding"width="400"src="https://media.giphy.com/media/WaWl4kAKplVks/giphy.gif">
+<img align="right"alt="coding"width="400"src="![image](https://github.com/Amishayadav9999/Amishayadav999/assets/148490600/488e2cd2-c330-4c14-911d-964a1791265b)">
+
 
 - 🌱 I’m currently learning **Java**
 
